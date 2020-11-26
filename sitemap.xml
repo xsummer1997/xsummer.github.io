@@ -130,20 +130,6 @@
   </url>
   
   <url>
-    <loc>https://xsummer1997.github.io/tags/Linux/</loc>
-    <lastmod>2020-11-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://xsummer1997.github.io/tags/NFS/</loc>
-    <lastmod>2020-11-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://xsummer1997.github.io/tags/Github/</loc>
     <lastmod>2020-11-26</lastmod>
     <changefreq>daily</changefreq>
@@ -173,6 +159,20 @@
   
   <url>
     <loc>https://xsummer1997.github.io/tags/Shell/</loc>
+    <lastmod>2020-11-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://xsummer1997.github.io/tags/Linux/</loc>
+    <lastmod>2020-11-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://xsummer1997.github.io/tags/NFS/</loc>
     <lastmod>2020-11-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -216,14 +216,14 @@
   </url>
   
   <url>
-    <loc>https://xsummer1997.github.io/categories/Linux/</loc>
+    <loc>https://xsummer1997.github.io/categories/Hexo/</loc>
     <lastmod>2020-11-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://xsummer1997.github.io/categories/Hexo/</loc>
+    <loc>https://xsummer1997.github.io/categories/Linux/</loc>
     <lastmod>2020-11-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -237,14 +237,7 @@
   </url>
   
   <url>
-    <loc>https://xsummer1997.github.io/categories/Linux/Shell/</loc>
-    <lastmod>2020-11-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://xsummer1997.github.io/categories/Linux/NFS/</loc>
+    <loc>https://xsummer1997.github.io/categories/Hexo/Blog/</loc>
     <lastmod>2020-11-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -265,7 +258,14 @@
   </url>
   
   <url>
-    <loc>https://xsummer1997.github.io/categories/Hexo/Blog/</loc>
+    <loc>https://xsummer1997.github.io/categories/Linux/Shell/</loc>
+    <lastmod>2020-11-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://xsummer1997.github.io/categories/Linux/NFS/</loc>
     <lastmod>2020-11-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
