@@ -109,99 +109,99 @@
 
   <url>
     <loc>https://xsummer1997.github.io/</loc>
-    <lastmod>2020-11-26</lastmod>
+    <lastmod>2020-11-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://xsummer1997.github.io/tags/C/</loc>
-    <lastmod>2020-11-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://xsummer1997.github.io/tags/Function/</loc>
-    <lastmod>2020-11-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://xsummer1997.github.io/tags/Github/</loc>
-    <lastmod>2020-11-26</lastmod>
+    <lastmod>2020-11-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://xsummer1997.github.io/tags/Github-Page/</loc>
-    <lastmod>2020-11-26</lastmod>
+    <lastmod>2020-11-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://xsummer1997.github.io/tags/Hexo/</loc>
-    <lastmod>2020-11-26</lastmod>
+    <lastmod>2020-11-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://xsummer1997.github.io/tags/Blog/</loc>
-    <lastmod>2020-11-26</lastmod>
+    <lastmod>2020-11-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://xsummer1997.github.io/tags/C/</loc>
+    <lastmod>2020-11-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://xsummer1997.github.io/tags/Function/</loc>
+    <lastmod>2020-11-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://xsummer1997.github.io/tags/Linux/</loc>
-    <lastmod>2020-11-26</lastmod>
+    <lastmod>2020-11-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://xsummer1997.github.io/tags/NFS/</loc>
-    <lastmod>2020-11-26</lastmod>
+    <lastmod>2020-11-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://xsummer1997.github.io/tags/Shell/</loc>
-    <lastmod>2020-11-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://xsummer1997.github.io/tags/cut/</loc>
-    <lastmod>2020-11-26</lastmod>
+    <lastmod>2020-11-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://xsummer1997.github.io/tags/CentOS/</loc>
-    <lastmod>2020-11-26</lastmod>
+    <lastmod>2020-11-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://xsummer1997.github.io/tags/kickstart/</loc>
-    <lastmod>2020-11-26</lastmod>
+    <lastmod>2020-11-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://xsummer1997.github.io/tags/cut/</loc>
+    <lastmod>2020-11-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://xsummer1997.github.io/tags/Vim/</loc>
-    <lastmod>2020-11-26</lastmod>
+    <lastmod>2020-11-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -209,71 +209,71 @@
 
   
   <url>
-    <loc>https://xsummer1997.github.io/categories/C/</loc>
-    <lastmod>2020-11-26</lastmod>
+    <loc>https://xsummer1997.github.io/categories/Hexo/</loc>
+    <lastmod>2020-11-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://xsummer1997.github.io/categories/Hexo/</loc>
-    <lastmod>2020-11-26</lastmod>
+    <loc>https://xsummer1997.github.io/categories/C/</loc>
+    <lastmod>2020-11-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://xsummer1997.github.io/categories/Linux/</loc>
-    <lastmod>2020-11-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://xsummer1997.github.io/categories/C/Function/</loc>
-    <lastmod>2020-11-26</lastmod>
+    <lastmod>2020-11-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://xsummer1997.github.io/categories/Hexo/Blog/</loc>
-    <lastmod>2020-11-26</lastmod>
+    <lastmod>2020-11-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://xsummer1997.github.io/categories/CentOS/</loc>
-    <lastmod>2020-11-26</lastmod>
+    <lastmod>2020-11-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://xsummer1997.github.io/categories/C/Function/</loc>
+    <lastmod>2020-11-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://xsummer1997.github.io/categories/Vim/</loc>
-    <lastmod>2020-11-26</lastmod>
+    <lastmod>2020-11-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://xsummer1997.github.io/categories/Linux/NFS/</loc>
-    <lastmod>2020-11-26</lastmod>
+    <lastmod>2020-11-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://xsummer1997.github.io/categories/Linux/Shell/</loc>
-    <lastmod>2020-11-26</lastmod>
+    <lastmod>2020-11-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://xsummer1997.github.io/categories/CentOS/kickstart/</loc>
-    <lastmod>2020-11-26</lastmod>
+    <lastmod>2020-11-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
